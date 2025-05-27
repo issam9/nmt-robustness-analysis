@@ -1,0 +1,63 @@
+
+{
+    "facebook/nllb-200-distilled-600M": {
+        "en": "eng_Latn",
+        "it": "ita_Latn",
+        "es": "spa_Latn",
+        "de": "deu_Latn",
+        "nl": "nld_Latn",
+        "fr": "fra_Latn",
+        "pl": "pol_Latn",
+        "ro": "ron_Latn"
+    },
+    "facebook/nllb-200-1.3B": {
+        "en": "eng_Latn",
+        "it": "ita_Latn",
+        "es": "spa_Latn",
+        "de": "deu_Latn",
+        "nl": "nld_Latn",
+        "fr": "fra_Latn",
+        "pl": "pol_Latn",
+        "ro": "ron_Latn"
+    },
+    "facebook/nllb-200-distilled-1.3B": {
+        "en": "eng_Latn",
+        "it": "ita_Latn",
+        "es": "spa_Latn",
+        "de": "deu_Latn",
+        "nl": "nld_Latn",
+        "fr": "fra_Latn",
+        "pl": "pol_Latn",
+        "ro": "ron_Latn"
+    },
+    "facebook/mbart-large-50-many-to-many-mmt": {
+        "en": "en_XX",
+        "it": "it_IT",
+        "es": "es_XX",
+        "de": "de_DE",
+        "nl": "nl_XX",
+        "fr": "fr_XX",
+        "pl": "pl_PL",
+        "ro": "ro_RO"
+    },
+    "facebook/m2m100_418M": {
+        "en": "__en__",
+        "it": "__it__",
+        "es": "__es__",
+        "de": "__de__",
+        "nl": "__nl__",
+        "fr": "__fr__",
+        "pl": "__pl__",
+        "ro": "__ro__"
+    },
+    "facebook/m2m100_1.2B": {
+        "en": "__en__",
+        "it": "__it__",
+        "es": "__es__",
+        "de": "__de__",
+        "nl": "__nl__",
+        "fr": "__fr__",
+        "pl": "__pl__",
+        "ro": "__ro__"
+    }
+}
